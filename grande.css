@@ -7,17 +7,13 @@ figcaption {
 	text-align: center;
 }
 
-#img-div {
-	align-content: center;
-}
-
 #image {
-	display: center;
+	display: block;
 	height: auto;
 	max-width: 100%;
 }
 
 #main {
 	background-color: white;
-	margin: 50px, auto;
+	margin: 50px, 50px;
 }
