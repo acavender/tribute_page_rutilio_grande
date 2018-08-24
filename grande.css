@@ -4,8 +4,12 @@ body {
 }
 
 #image {
-	align: center;
 	display: block;
 	height: auto;
+	margin: auto;
 	max-width: 100%;
+}
+
+main {
+	background-color: white;
 }
