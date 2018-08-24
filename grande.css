@@ -3,13 +3,17 @@ body {
 	margin-top: 60px;
 }
 
+figcaption {
+	display: block;
+	text-align: center;
+}
+
 #image {
 	display: block;
 	height: auto;
-	margin: auto;
 	max-width: 100%;
 }
 
-main {
+#main {
 	background-color: white;
 }
