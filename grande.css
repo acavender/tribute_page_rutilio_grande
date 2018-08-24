@@ -1,13 +1,13 @@
-	.body {
+	body {
         background-color: gray;
 		margin-top: 60px;
 	}
 
-	.figure {
+	figure {
 		margin: 10px;
 		}
 
-	.figure, .figcaption {
+	figure, figcaption {
 		display: block;
 		font-style: italic;
 		font-variant: small-caps;
