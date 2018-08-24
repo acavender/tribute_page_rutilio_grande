@@ -7,6 +7,10 @@ figcaption {
 	text-align: center;
 }
 
+#img-div {
+	align-content: center;
+}
+
 #image {
 	display: center;
 	height: auto;
