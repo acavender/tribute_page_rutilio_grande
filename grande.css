@@ -1,6 +1,5 @@
 body {
 	background-color: gray;
-	margin-top: 60px;
 }
 
 figcaption {
@@ -9,11 +8,12 @@ figcaption {
 }
 
 #image {
-	display: block;
+	display: center;
 	height: auto;
 	max-width: 100%;
 }
 
 #main {
 	background-color: white;
+	margin: 50px, auto;
 }
